@@ -193,6 +193,14 @@ section {
   padding-left: 3px;
 }
 
+.btn-primary{
+  background: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background: #04948c;
+}
+
 .header .btn-getstarted,
 .header .btn-getstarted:focus {
   color: var(--contrast-color);
