@@ -73,19 +73,18 @@
 
 <main id="main">
 
-    <div html-component="components/hero.html" id="hero"></div>
-    <div html-component="components/clients.html" id="clients"></div>
-    <div html-component="components/about.html" id="about"></div>
-    <div html-component="components/stats.html" id="stats"></div>
-    <div html-component="components/services.html" id="services"></div>
-    <div html-component="components/features.html" id="features"></div>
-    <div html-component="components/portfolio.html" id="portfolio"></div>
-    <div html-component="components/faq.html" id="faq"></div>
-    <div html-component="components/team.html" id="team"></div>
-    <div html-component="components/call-to-action.html" id="call-to-action"></div>
-    <div html-component="components/article.html" id="article"></div>
-    <div html-component="components/contact.html" id="contact"></div>
-    <div html-component="components/footer.html" id="footer"></div>
+    <include src="components/hero.html"></include>
+    <include src="components/clients.html"></include>
+    <include src="components/about.html"></include>
+    <include src="components/stats.html"></include>
+    <include src="components/services.html"></include>
+    <include src="components/portfolio.html"></include>
+    <include src="components/faq.html"></include>
+    <include src="components/team.html"></include>
+    <include src="components/call-to-action.html"></include>
+    <include src="components/article.html"></include>
+    <include src="components/contact.html"></include>
+    <include src="components/footer.html"></include>
 
 </main>
 
@@ -110,14 +109,12 @@
 <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script src="assets/vendor/aos/aos.js"></script>
 <script src="assets/vendor/php-email-form/validate.js"></script>
+<script src="https://morgan3d.github.io/include.js/include.min.js"></script>
+
 
 <!-- Template Main JS File -->
 <script src="assets/js/main.js"></script>
-<script src="assets/js/component-loader.js"></script>
 
-<script>
-    includeHTML();
-</script>
 
 </body>
 
