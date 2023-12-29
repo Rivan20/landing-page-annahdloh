@@ -1932,6 +1932,10 @@ section {
   margin-bottom: 0;
 }
 
+.recent-posts .btn-primary {
+  border-width: 0;
+}
+
 /* Contact Section - Home Page
 ------------------------------*/
 .contact .info-item {
