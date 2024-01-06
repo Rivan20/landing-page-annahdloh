@@ -1789,7 +1789,7 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+  width: 100px;
   height: 90px;
   border-radius: 50px;
   border: 6px solid var(--background-color);
