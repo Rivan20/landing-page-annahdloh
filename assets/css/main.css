@@ -330,7 +330,7 @@ section {
   .navmenu .dropdown ul {
     margin: 0;
     padding: 10px 0;
-    background: var(--nav-dropdown-background-color);
+    background: white;
     display: block;
     position: absolute;
     visibility: hidden;
@@ -350,7 +350,7 @@ section {
     padding: 10px 20px;
     font-size: 15px;
     text-transform: none;
-    color: var(--nav-dropdown-color);
+    color: black;
   }
 
   .navmenu .dropdown ul a i {
@@ -360,7 +360,7 @@ section {
   .navmenu .dropdown ul a:hover,
   .navmenu .dropdown ul .active:hover,
   .navmenu .dropdown ul li:hover>a {
-    color: var(--nav-dropdown-hover-color);
+    color: var(--primary-color);
   }
 
   .navmenu .dropdown:hover>ul {
