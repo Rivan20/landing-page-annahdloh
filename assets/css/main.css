@@ -127,7 +127,7 @@ section {
 }
 
 .page-title .heading {
-  padding: 80px 0;
+  padding: 40px 0 0 0;
   border-top: 1px solid rgba(var(--default-color-rgb), 0.1);
 }
 
@@ -1789,7 +1789,7 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+  width: 100px;
   height: 90px;
   border-radius: 50px;
   border: 6px solid var(--background-color);
@@ -1930,6 +1930,10 @@ section {
   font-size: 14px;
   color: rgba(var(--default-color-rgb), 0.5);
   margin-bottom: 0;
+}
+
+.recent-posts .btn-primary {
+  border-width: 0;
 }
 
 /* Contact Section - Home Page
@@ -2449,8 +2453,8 @@ section {
 /* Blog-details Section - Blog Details Page
 ------------------------------*/
 .blog-details .article {
-  box-shadow: 0 4px 16px rgba(var(--default-color-rgb), 0.1);
-  padding: 30px;
+  box-shadow: 0 4px 16px rgba(var(--default-color-rgb), 0.3);
+  padding: 2px 30px 30px 30px;
 }
 
 .blog-details .post-img {
