@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+An-nahdloh Landing Page
 
-Template Name: Append
-Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Created with Love by An-nahdloh team.
