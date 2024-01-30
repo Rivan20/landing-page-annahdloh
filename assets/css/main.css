@@ -1114,7 +1114,7 @@ section {
   left: 0;
   width: 30px;
   height: 2px;
-  background: #93848F;
+  background: rgba(147, 132, 143, 0.22);
   border-right: 5px solid #E5D9E8;
 }
 
@@ -1139,7 +1139,7 @@ section {
   content: "";
   height: 30px;
   width: 30px;
-  background: rgba(var(--primary-color-rgb), 0.3);
+  background: rgba(235,214,217,0.3);
   border-radius: 50px;
   z-index: 1;
   bottom: -15px;
@@ -1154,7 +1154,7 @@ section {
 }
 
 .services .service-item .title a {
-  color: var(--secondary-color);
+  color: #735669;
 }
 
 .services .service-item .title a:hover {
