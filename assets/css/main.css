@@ -1104,7 +1104,7 @@ section {
   left: 0;
   right: 0;
   height: 2px;
-  background: rgba(var(--default-color-rgb), 0.1);
+  background: #93848F;
 }
 
 .services .service-item::after {
@@ -1114,8 +1114,8 @@ section {
   left: 0;
   width: 30px;
   height: 2px;
-  background: var(--primary-color);
-  border-right: 5px solid var(--background-color);
+  background: #93848F;
+  border-right: 5px solid #E5D9E8;
 }
 
 .services .service-item .icon {
@@ -1127,7 +1127,7 @@ section {
 }
 
 .services .service-item .icon i {
-  color: rgba(var(--default-color-rgb), 0.7);
+  color: #93848F;
   font-size: 56px;
   transition: ease-in-out 0.3s;
   z-index: 2;
@@ -1158,7 +1158,7 @@ section {
 }
 
 .services .service-item .title a:hover {
-  color: var(--primary-color);
+  color: #E38A8A;
 }
 
 .services .service-item .description {
