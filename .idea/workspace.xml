@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c81afa-0c21-464f-a83d-2f85f3bf4b4e" name="Changes" comment="init bump">
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/puyuh.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/rabbit-one.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/rabbit-two.webp" afterDir="false" />
+    <list default="true" id="d7c81afa-0c21-464f-a83d-2f85f3bf4b4e" name="Changes" comment="init rabbit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/features-light-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/features-light-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/features-light-3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bump/bump-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/bump/bump-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706586276422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init rabbit">
+      <option name="closed" value="true" />
+      <created>1707195422144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707195422144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +149,8 @@
     <MESSAGE value="add navbar-dropdown" />
     <MESSAGE value="include idea files" />
     <MESSAGE value="init bump" />
-    <option name="LAST_COMMIT_MESSAGE" value="init bump" />
+    <MESSAGE value="init rabbit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init rabbit" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
