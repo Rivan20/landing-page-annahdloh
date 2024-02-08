@@ -1168,6 +1168,10 @@ section {
 
 /* Features Section - Home Page
 ------------------------------*/
+.features {
+  --background-color: #f4f4f4;
+}
+
 .features .features-item {
   color: rgba(var(--default-color-rgb), 0.8);
 }
