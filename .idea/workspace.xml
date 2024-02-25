@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c81afa-0c21-464f-a83d-2f85f3bf4b4e" name="Changes" comment="init rabbit">
+    <list default="true" id="d7c81afa-0c21-464f-a83d-2f85f3bf4b4e" name="Changes" comment="fix picture not shown">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bump/bump-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/bump/bump-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature/bump/peternakan" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,6 +102,7 @@
       <workItem from="1706581239120" duration="128000" />
       <workItem from="1706581376951" duration="6114000" />
       <workItem from="1706975702765" duration="643000" />
+      <workItem from="1707571342473" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="include idea files">
       <option name="closed" value="true" />
@@ -128,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707195422144</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="styling perternakan">
+      <option name="closed" value="true" />
+      <created>1707198502908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707198502908</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix picture not shown">
+      <option name="closed" value="true" />
+      <created>1707572616818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707572616818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +166,9 @@
     <MESSAGE value="include idea files" />
     <MESSAGE value="init bump" />
     <MESSAGE value="init rabbit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init rabbit" />
+    <MESSAGE value="styling perternakan" />
+    <MESSAGE value="fix picture not shown" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix picture not shown" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
