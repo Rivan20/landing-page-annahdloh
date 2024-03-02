@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   window.addEventListener('load', toggleScrollTop);
-  document.addEventListener('scroll', toggleScrollTop);
+  // document.addEventListener('scroll', toggleScrollTop);
 
   /**
    * Preloader
@@ -44,13 +44,16 @@ document.addEventListener('DOMContentLoaded', () => {
    */
   const selectBody = document.querySelector('body');
   const selectHeader = document.querySelector('#header');
+  const detailAsatidz = document.getElementById("detail-asatidz");
 
   function toggleScrolled() {
     if (!selectHeader.classList.contains('scroll-up-sticky') && !selectHeader.classList.contains('sticky-top') && !selectHeader.classList.contains('fixed-top')) return;
     window.scrollY > 100 ? selectBody.classList.add('scrolled') : selectBody.classList.remove('scrolled');
   }
 
+  if(detailAsatidz==null) {
   document.addEventListener('scroll', toggleScrolled);
+  }
   window.addEventListener('load', toggleScrolled);
 
   /**
