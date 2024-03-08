@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7c81afa-0c21-464f-a83d-2f85f3bf4b4e" name="Changes" comment="rebrand profil into lebih dekat">
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/basreng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/keripik-two.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/keripik.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/macaroni-two.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bump/macaroni.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bump/bump-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/bump/bump-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
