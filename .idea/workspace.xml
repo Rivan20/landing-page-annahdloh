@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c81afa-0c21-464f-a83d-2f85f3bf4b4e" name="Changes" comment="fix picture not shown">
+    <list default="true" id="d7c81afa-0c21-464f-a83d-2f85f3bf4b4e" name="Changes" comment="rebrand profil into lebih dekat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +30,11 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/bump/peternakan" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SHOW_RECENT_BRANCHES" value="false" />
-  </component>
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="true" />
   </component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
@@ -44,6 +42,9 @@
         <option value="main" />
       </list>
     </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -58,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.article-detail.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
@@ -110,6 +112,9 @@
       <workItem from="1706581376951" duration="6114000" />
       <workItem from="1706975702765" duration="643000" />
       <workItem from="1707571342473" duration="927000" />
+      <workItem from="1709187540331" duration="654000" />
+      <workItem from="1709260783150" duration="2107000" />
+      <workItem from="1709276408689" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="include idea files">
       <option name="closed" value="true" />
